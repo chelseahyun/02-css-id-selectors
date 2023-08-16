@@ -2,7 +2,12 @@
 .odd-number {
     background-color:#f08080;
     color: #000000;
-    font-family: "Verdana" "DejaVu Sans" sans-serif;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+/* Larger text for the THIRD element */
+.larger-text {
+    font-size: 24px;
 }
 
 /* Even-numbered elements share the same font */
