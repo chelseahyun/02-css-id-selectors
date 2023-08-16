@@ -1,0 +1,17 @@
+/* Features shared by all odd-numbered elements */
+.odd-number {
+    background-color:#f08080;
+    color: #000000;
+    font-family: "Verdana" "DejaVu Sans" sans-serif;
+}
+
+/* Even-numbered elements share the same font */
+
+
+
+/* Each even-numbered element has specific properties and values */
+/* Style SECOND element */
+
+
+
+/* Style FOURTH element */
