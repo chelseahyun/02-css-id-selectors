@@ -18,7 +18,14 @@
 
 /* Each even-numbered element has specific properties and values */
 /* Style SECOND element */
-
-
+#second {
+    color: #0000ff;
+    font-size: 36px;
+}
 
 /* Style FOURTH element */
+#fourth {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: 700;
+}
