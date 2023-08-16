@@ -11,7 +11,9 @@
 }
 
 /* Even-numbered elements share the same font */
-
+.even-number {
+    font-family: "Ubuntu", sans-serif;
+}
 
 
 /* Each even-numbered element has specific properties and values */
